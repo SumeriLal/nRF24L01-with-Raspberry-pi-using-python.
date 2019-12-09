@@ -1,3 +1,6 @@
+//This program is for the Arduino. Before using this program on the please include the library
+// link:https://github.com/nRF24/RF24
+
 #include<SPI.h>
 #include<RF24.h>
 
